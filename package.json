@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "cli-table": "^0.3.11"
+  },
+  "name": "degree_convertor",
+  "description": "degree_convertor is a cellcius & farhenheit convertor, helps in converting degrees between countries and also displays a conversion table with comments",
+  "version": "1.0.1",
+  "main": "package.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "convertor",
+    "degree",
+    "cellcius",
+    "farhenheit"
+  ],
+  "author": "Boris & Yuval",
+  "license": "ISC"
+}
