@@ -5,7 +5,6 @@ function convert_fahn(degree){
 }
 
 
-convert_fahn(0)
 // *************************************************************************************
 
 function convert_cell(degree){
@@ -13,7 +12,7 @@ function convert_cell(degree){
     console.log(`The degree in °C ${celsius}`);
 }
 
-convert_cell(40)
+
 
 // **************************************************************************************
 function degree_table(){
@@ -44,7 +43,6 @@ function degree_table(){
     );
     
     console.log(table.toString());}
-degree_table()
 
 module.Exports = { 
   convert_fahn: convert_fahn,

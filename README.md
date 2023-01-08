@@ -15,6 +15,8 @@ The goal is to prevent the user from performing various mathematical operations 
 - Only accepts integer.
 - Simple to use
 
+#### Dependencies:
+- cli-table
 
 ## Example 1:
 ##### "°C convert to °F ":
@@ -149,10 +151,6 @@ convert_fahn(0) ---- The degree in °F 32
 ```
 
 ##### 3. Get degree table convertor:
-first you need make sure that you install for this func:
-
-npm install cli-table
-
 ```bash
 you write the name of the func() --- You get the table
 
